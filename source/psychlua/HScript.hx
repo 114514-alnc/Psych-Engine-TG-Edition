@@ -8,7 +8,7 @@ import backend.Achievements;
 
 #if HSCRIPT_ALLOWED
 import tea.SScript;
-class HScript extends SScript
+class HScript 
 {
 	public var parentLua:FunkinLua;
 	public var modFolder:String;
