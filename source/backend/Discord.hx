@@ -1,7 +1,7 @@
 package backend;
 
 import Sys.sleep;
-import discord_rpc.DiscordRpc;
+import hxdiscord_rpc.Discord;
 import lime.app.Application;
 
 class DiscordClient
